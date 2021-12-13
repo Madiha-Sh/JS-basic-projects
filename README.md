@@ -7,3 +7,5 @@
 ![reviews](./img/reviews.png)
 1. *navbar*
 ![navbar](./img/navbar.png)
+1. *sidebar*
+![sidebar](./img/sidebar.png)
