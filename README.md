@@ -9,3 +9,5 @@
 ![navbar](./img/navbar.png)
 1. *sidebar*
 ![sidebar](./img/sidebar.png)
+1. *modal*
+![modal](./img/modal.png)
