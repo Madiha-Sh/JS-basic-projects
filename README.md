@@ -11,3 +11,5 @@
 ![sidebar](./img/sidebar.png)
 1. *modal*
 ![modal](./img/modal.png)
+1. *questions*
+![questions](./img/questions.png)
