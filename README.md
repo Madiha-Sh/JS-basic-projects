@@ -19,3 +19,5 @@
 ![video](./img/video.png)
 1. *scroll*
 ![scroll](./img/scroll.png)
+1. *tabs*
+![tabs](./img/tabs.png)
