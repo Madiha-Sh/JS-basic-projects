@@ -23,3 +23,5 @@
 ![tabs](./img/tabs.png)
 1. *countdown*
 ![countdown](./img/countdown.png)
+1. *lorem*
+![lorem](./img/lorem.png)
