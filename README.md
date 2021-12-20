@@ -25,3 +25,5 @@
 ![countdown](./img/countdown.png)
 1. *lorem*
 ![lorem](./img/lorem.png)
+1. *slider*
+![slider](./img/slider.png)
