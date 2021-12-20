@@ -94,8 +94,8 @@ function editItem(e){
    // set edit item
    editElement = e.currentTarget.parentElement.previousElementSibling;
    // set form value
-   grocery.value = editElement.textContent;
-   editFlag = true;
+   grocery.value = editElement.innerHTML;
+   editFlag = true; 
    editId = element.dataset.id;
    submit.textContent = 'edit';
 }
@@ -121,10 +121,10 @@ function removeFromLocalStorage(id){
       if(item.id !== id){
          return item;
       }
-      localStorage.setItem('list', JSON.stringify(items));
    });
+   localStorage.setItem('list', JSON.stringify(items));
 }
-
+ 
 function editLocalStorage(id,value){
    let items = getLocalStorage();
    items = items.map(item => {
